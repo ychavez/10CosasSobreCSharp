@@ -13,7 +13,8 @@ namespace _10CosasSobreCSharp
            //FuncionesLocales.Run();
            //YieldReturn.Run();
            //ExpLambda.Run();
-           ExpLambdaPredicate.Run();
+           //ExpLambdaPredicate.Run();
+           ExplLambdaAction.Run(19);
           
         }
     }
